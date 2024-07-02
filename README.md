@@ -28,9 +28,9 @@ The decryption will output 1 value:
 ## How to run the Program
 Below we can see how to run the program for the encryption and decryption using poetry.
 ### 1. Poetry Setup
-Run the following from this folder: "keep_a_secret"
-Next run this:
+Run the following from the folder that contains pyproject.toml:
 - poetry shell
+Then navigate to the keep_a_secret folder.
 
 ### 2. Encryption
 Once the poetry shell is up. Run the following for the encryption:
